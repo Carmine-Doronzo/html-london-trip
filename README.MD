@@ -1,0 +1,1 @@
+Tra i primissimi esercizi affrontati al bootcamp c'è anche questo in cui attuo i primi passi tra i tag HTML: liste,liste annidate,tabelle e immagini.
